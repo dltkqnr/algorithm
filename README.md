@@ -5,3 +5,7 @@
 
 2020-01-09
 - Codeup basic 100 (51-90)
+
+2020-01-12
+- Codeup basic 100(90-100)
+- Greedy
