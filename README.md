@@ -9,3 +9,6 @@
 2020-01-12
 - Codeup basic 100(90-100)
 - Greedy
+
+2020-01-13
+- Implementaion
